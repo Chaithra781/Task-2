@@ -1,3 +1,7 @@
+Name : Chaithra B V
+College : Adichunchanagiri Institute of Technology, Chikkmagaluru
+Contact Number : 7676365421
+
 # Employee Attendance System
 
 A full-stack employee attendance tracking system built with React, Redux Toolkit, Node.js, Express, and MongoDB.
